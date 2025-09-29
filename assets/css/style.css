@@ -1,6 +1,6 @@
 @font-face {
   font-family: face;
-  src: url(/goldFamily-wiki/assets/font/MarchiseTrial-Bold.ttf);
+  src: url(/assets/font/MarchiseTrial-Bold.ttf) format('truetype');
 }
 
 .head{
