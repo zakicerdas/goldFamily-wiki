@@ -132,7 +132,7 @@ main {
   text-orientation: mixed;
   color: #d81b7a;
   font-weight: 700;
-  font-size: 13px;
+  font-size: 30px;
   padding: 6px 4px;
   box-shadow: 0 6px 16px rgba(16,24,40,0.06);
   z-index: -3; 
@@ -142,7 +142,7 @@ main {
 .card:hover .card-top .char-img { transform: scale(1.04); }
 
 body{
-  background-image: url(/goldFamily-wiki/assets/25_afcas12.jpg);
+  background-image: url(/assets/25_afcas12.jpg);
 }
 
 
